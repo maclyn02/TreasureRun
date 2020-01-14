@@ -1,0 +1,9 @@
+anne 10
+mac 740
+lucy 450
+ed 200
+zita 730
+mary 30
+PRA 290
+mac 280
+mnb 290
